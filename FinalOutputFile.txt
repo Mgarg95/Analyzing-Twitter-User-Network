@@ -1,0 +1,5 @@
+This is the automatically generated output file for part 7 of the project.
+Size of Network in terms of Nodes : 223
+Size of Network in terms of Edges : : 231
+Size of Network in terms of Diameter : 10
+Size of Network in terms of Average distance : 6.97677049246556
